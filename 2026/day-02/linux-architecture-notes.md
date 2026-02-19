@@ -1,8 +1,12 @@
 Linux Basics: What, Why, and How to Get Started
+
 Linux powers everything from your AWS EC2 instances to Android phones and supercomputers - it's the backbone of modern cloud computing. This beginner-friendly guide covers the essentials so you can confidently SSH into your server and start managing it like a pro.
-What is Linux?
+
+**What is Linux?**
+
 Linux is a free, open-source operating system kernel created by Linus Torvalds in 1991. Paired with tools like GNU utilities, it forms complete distributions (distros) such as Ubuntu, Amazon Linux, or CentOS.
 It's a Unix based operating System
+
 Key traits:
 Unix-like: Behaves like traditional Unix systems.
 Modular: Kernel handles core functions; users add software as needed.
