@@ -143,8 +143,40 @@ This makes your script more portable across Linux, macOS, and servers.
 
 ---
 
+How to take input in a Shell Script (Short Answer)
+
+Use the read command.
+
+Example:
+
+#!/usr/bin/env bash
+
+echo "Enter your name:"
+read name
+
+echo "Hello $name"
+
+**One-line input**
+
+read -p "Enter your age: " age
+echo "Your age is $age"
+
 
 **Task 01**
 
-<img width="678" height="788" alt="Screenshot 2026-03-04 at 10 26 54 PM" src="https://github.com/user-attachments/assets/6a345ba2-a786-4546-9df9-692ff940e9ed" />
+<img width="678" height="788" alt="Screenshot 2026-03-04 at 10 26 54 PM" src="https://github.com/user-attachments/assets/6a345ba2-a786-4546-9df9-<img width="577" height="349" alt="Screenshot 2026-03-04 at 11 43 02 PM" src="https://github.com/user-attachments/assets/989be25e-dc0a-4afb-af85-5ced20576117" />
+692ff940e9ed" />
 <img width="515" height="93" alt="Screenshot 2026-03-04 at 10 29 16 PM" src="https://github.com/user-attachments/assets/7576964d-1502-482a-9e71-ff9d4ada509d" />
+
+**TASK 2**
+<i<img width="516" height="83" alt="Screenshot 2026-03-04 at 11 05 31 PM" src="https://github.com/user-attachments/assets/d5762a11-bc63-45ee-821b-36dbee42b448" />
+mg width="1073" height="638" alt="varibles1" src="https://github.com/user-attachments/assets/400f582a-cadb-4f74-8d09-867af30f6437" />
+
+**Task3** 
+
+<img width="834" height="546" alt="Screenshot 2026-03-04 at 11 40 33 PM" src="https://github.com/user-attachments/assets/8af8f64d-a57b-4d94-863f-c95f0d12d8d1" />
+<img width="855" height="573" alt="Screenshot 2026-03-04 at 11 42 39 PM" src="https://github.com/user-attachments/assets/8cec5fe1-398f-48ef-80cf-952de827a5e7" />
+<img width="577" height="349" alt="Screenshot 2026-03-04 at 11 43 02 PM" src="https://github.com/user-attachments/assets/d9c92dcb-9396-41ba-b049-d1027c2ad47c" />
+
+
+
